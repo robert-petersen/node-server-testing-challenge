@@ -20,5 +20,12 @@
   },
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/LambdaSchool/node-server-testing/issues"
+  },
+  "homepage": "https://github.com/LambdaSchool/node-server-testing#readme",
+  "main": "index.js",
+  "keywords": [],
+  "author": ""
 }
